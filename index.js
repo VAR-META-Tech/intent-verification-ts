@@ -572,5 +572,4 @@ if (!nativeBinding) {
 }
 
 module.exports = nativeBinding
-module.exports.plus100 = nativeBinding.plus100
-module.exports.sum = nativeBinding.sum
+module.exports.verifyIntent = nativeBinding.verifyIntent

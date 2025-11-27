@@ -109,9 +109,9 @@
   },
   "packageManager": "yarn@4.12.0",
   "optionalDependencies": {
-    "intent-verification-ts-win32-x64-msvc": "1.0.0",
-    "intent-verification-ts-darwin-x64": "1.0.0",
-    "intent-verification-ts-linux-x64-gnu": "1.0.0",
-    "intent-verification-ts-darwin-arm64": "1.0.0"
+    "intent-verification-ts-win32-x64-msvc": "1.0.1",
+    "intent-verification-ts-darwin-x64": "1.0.1",
+    "intent-verification-ts-linux-x64-gnu": "1.0.1",
+    "intent-verification-ts-darwin-arm64": "1.0.1"
   }
 }
